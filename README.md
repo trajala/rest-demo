@@ -2,7 +2,7 @@
 
 This is a simple example of spring boot application and mysql server run in docker containers. The application has one rest api endpoint `customers` to get all the customer info from the db.
 
-First make sure you have jdk, maven, docker and docker-compose installed.
+First make sure you have `jdk`, `maven`, `docker` and `docker-compose` installed.
 
 Download the project and install with
 
